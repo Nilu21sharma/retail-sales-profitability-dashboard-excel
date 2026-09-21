@@ -58,7 +58,7 @@ The dashboard will be designed to:
 retail-sales-profitability-dashboard-excel/
 │
 ├── data/
-│   └── raw/
+│   └── raw_data/
 │       └── superstore.csv
 │
 ├── cleaned-data/
